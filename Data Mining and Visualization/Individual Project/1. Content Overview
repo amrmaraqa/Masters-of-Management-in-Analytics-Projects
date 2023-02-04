@@ -1,0 +1,1 @@
+The purpose of this project was to develop two models for the crowd-sourced funding website, KickStarter. The first model was a classification model used to predict the state of success of a launched project. The second model performed unsupervised learning to uncover relationships between variables. The Python code and findings report are attached.
